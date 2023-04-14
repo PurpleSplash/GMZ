@@ -2,7 +2,7 @@
     --main-color: #090909;
     --title-bar: #212121;
     --bar-color: #181818;
-    --bar-border-color: #282828;
+    --bar-border-color: #000000;
     --bar-size: 90px;
     --accent-rgb: 29,185,84;
     --accent-hover: 30,215,96;
@@ -23,13 +23,13 @@
     --popout-radius: 7px;
     --popout-radius-small: 3px;
     --menu-hover-color: rgba(255,255,255,0.1);
-    --menu-select-color: rgba(255,255,255,0.3);
-    --menu-border-color: rgba(255,255,255,0.1);
+    --menu-select-color: rgba(113, 69, 235, 0.3);
+    --menu-border-color: rgba(104, 57, 233, 0.1);
     --menu-text-color: #b2b2b2;
     --input-color: #000000;
-    --input-text-color: #fcfcfc;
+    --input-text-color: #88d6c9;
     /* white */
-    --input-placeholder-color: #ffffff;
+    --input-placeholder-color: #7a29e6;
     --input-radius: 22px;
     --select-input-color: #363636;
     --button-background: rgba(0,0,0,0.7);
@@ -860,13 +860,13 @@
   .wrapper-15CKyy .attachment-16cAbS,
   .wrapper-15CKyy .avatar-l9Txm5,
   .wrapper-15CKyy .blob-1uHjdp {
-    background-color: #ff0000;
+    background-color: #68b6ce;
   }
   
   /* CHAT AREA -> MESSAGES */
   .message-2CShn3.selected-2LX7Jy,
   .mouse-mode.full-motion .message-2CShn3:hover {
-    background-color: rgba(110, 110, 110, 0.03);
+    background-color: rgba(51, 51, 51, 0.03);
   }
   
   .markup-eYLPri a {
