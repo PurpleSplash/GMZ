@@ -34,7 +34,7 @@ themevarsp
     --dark-secondary: #050505;
     --dark-secondary-alt: #080808;
     --dark-bright: #0b0b0b;
-    --roundmoled-background: #a82a2a;
+    --roundmoled-background: #7d2ed8;
     --popout-activeborders: #1f1f1f;
 }
 
@@ -831,7 +831,7 @@ transform:scale(1.8) !important;
 
 #status-picker-custom-status:hover, 
 #status-picker-custom-status.focused-3qFvc8{
-    background-color:#5322a2;
+    background-color:#d81717;
     border-radius:10px;
     transition:250ms;
     box-shadow: rgba(100, 44, 255, 0.17) 0px 5px 15px;
@@ -928,7 +928,7 @@ margin-top:3px;
 #message-save-image:hover,
 #message-save-image.focused-3qFvc8
 {
-    background:#8e3bdb;
+    background:#db3b3b;
     border-radius:7px;
     transform:scale(1.02);
     margin-right:2px;
